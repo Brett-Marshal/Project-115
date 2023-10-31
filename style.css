@@ -1,0 +1,16 @@
+canvas
+{
+    border: 10px ridge rgb(130, 120, 120);
+    background-color: rgb(54, 52, 52);
+}
+
+h2
+{
+    size:27px;
+}
+
+button
+{
+    size:20px;
+    font-weight: bold;
+}
